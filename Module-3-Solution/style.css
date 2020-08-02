@@ -4,6 +4,7 @@ nav {
 }
 div.col-sm-12 {
 	background-color: grey;
+	margin: 20px;
 	margin-right: 20px;
 }
 h1 {
@@ -17,3 +18,9 @@ h1 {
 li {
 	text-align: center;
 }
+.dropdown-toggle {
+	background-color: grey;
+	border-color: white;
+}
+
+
