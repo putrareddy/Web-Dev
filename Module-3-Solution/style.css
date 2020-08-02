@@ -1,0 +1,19 @@
+nav {
+	background-color: grey;
+	margin-bottom: 20px;
+}
+div.col-sm-12 {
+	background-color: grey;
+	margin-right: 20px;
+}
+h1 {
+	margin-bottom: 20px;
+}
+.navbar-brand {
+	color: black;
+	font-size: 2em;
+	font-weight: 700;
+}
+li {
+	text-align: center;
+}
