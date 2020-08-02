@@ -20,5 +20,8 @@ li {
 	background-color: grey;
 	border-color: white;
 }
-
+.container{
+	text-align: left;
+	margin-left: 10px;
+}
 
