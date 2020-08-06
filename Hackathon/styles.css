@@ -1,0 +1,60 @@
+.alert {
+	width: 100%;
+}
+.nav-link {
+	color: green;
+	font-weight: 600;
+}
+.backgroundimg {
+	background-image: url("") ;
+	background-repeat: no-repeat;
+	background-color: green;
+}
+.imp { 
+	width: 300px; 
+}
+.img1 {
+background-color: violet;
+background-image: url("") ;
+border: 10px solid white;
+}
+.img2 {
+	background-color: indigo;
+background-image: url("") ;
+border: 10px solid white;
+}
+.img3 {
+	background-color: blue;
+background-image: url("") ;
+border: 10px solid white;
+}
+.img4 {
+	background-color: green;
+background-image: url("") ;
+border: 10px solid white;
+}
+.img5 {
+	background-color: yellow;
+background-image: url("") ;
+border: 10px solid white;
+}
+.img6 {
+	background-color: orange;
+background-image: url("") ;
+border: 10px solid white;
+}
+.img7 {
+	background-color: red;
+background-image: url("") ;
+border: 10px solid white;
+}
+.img8 {
+	background-color: blue;
+background-image: url("") ;
+border: 10px solid white;
+}
+.img9 {
+	background-color: violet;
+background-image: url("") ;
+border: 10px solid white;
+}
