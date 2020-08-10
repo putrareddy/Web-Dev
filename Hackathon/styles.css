@@ -2,6 +2,9 @@ html,body {
 	width: 100%;
 	overflow-x: hidden;
 }
+h1 {
+	text-align: center;
+}
 .alert {
 	width: 100%;
 }
