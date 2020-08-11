@@ -4,6 +4,20 @@ html,body {
 }
 h1 {
 	text-align: center;
+	font-weight: 800;
+}
+h2 {
+	text-align: center;
+	font-weight: 600;
+}
+h3 {
+	text-align: center;
+	font-weight: 400;
+}
+.issue {
+	border: 10px solid blue;
+	color: blue;
+	background-color: white;
 }
 .alert {
 	width: 100%;
@@ -62,6 +76,96 @@ background-image: url("") ;
 border: 10px solid white;
 }
 .img9 {
+	background-color: violet;
+background-image: url("") ;
+border: 10px solid white;
+}
+.blogimg1 {
+background-color: violet;
+background-image: url("") ;
+border: 10px solid white;
+}
+.blogimg2 {
+	background-color: indigo;
+background-image: url("") ;
+border: 10px solid white;
+}
+.blogimg3 {
+	background-color: blue;
+background-image: url("") ;
+border: 10px solid white;
+}
+.blogimg4 {
+	background-color: green;
+background-image: url("") ;
+border: 10px solid white;
+}
+.blogimg5 {
+	background-color: yellow;
+background-image: url("") ;
+border: 10px solid white;
+}
+.blogimg6 {
+	background-color: orange;
+background-image: url("") ;
+border: 10px solid white;
+}
+.blogimg7 {
+	background-color: red;
+background-image: url("") ;
+border: 10px solid white;
+}
+.blogimg8 {
+	background-color: blue;
+background-image: url("") ;
+border: 10px solid white;
+}
+.blogimg9 {
+	background-color: violet;
+background-image: url("") ;
+border: 10px solid white;
+}
+.yourstoriesimg1 {
+background-color: violet;
+background-image: url("") ;
+border: 10px solid white;
+}
+.yourstoriesimg2 {
+	background-color: indigo;
+background-image: url("") ;
+border: 10px solid white;
+}
+.yourstoriesimg3 {
+	background-color: blue;
+background-image: url("") ;
+border: 10px solid white;
+}
+.yourstoriesimg4 {
+	background-color: green;
+background-image: url("") ;
+border: 10px solid white;
+}
+.yourstoriesimg5 {
+	background-color: yellow;
+background-image: url("") ;
+border: 10px solid white;
+}
+.yourstoriesimg6 {
+	background-color: orange;
+background-image: url("") ;
+border: 10px solid white;
+}
+.yourstoriesimg7 {
+	background-color: red;
+background-image: url("") ;
+border: 10px solid white;
+}
+.yourstoriesimg8 {
+	background-color: blue;
+background-image: url("") ;
+border: 10px solid white;
+}
+.yourstoriesimg9 {
 	background-color: violet;
 background-image: url("") ;
 border: 10px solid white;
