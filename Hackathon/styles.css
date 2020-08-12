@@ -16,6 +16,7 @@ h3 {
 }
 .issue {
 	border: 10px solid blue;
+	border-radius: 20px;
 	color: blue;
 	background-color: white;
 }
@@ -39,136 +40,163 @@ h3 {
 background-color: violet;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .img2 {
 	background-color: indigo;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .img3 {
 	background-color: blue;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .img4 {
 	background-color: green;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .img5 {
 	background-color: yellow;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .img6 {
 	background-color: orange;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .img7 {
 	background-color: red;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .img8 {
 	background-color: blue;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .img9 {
 	background-color: violet;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .blogimg1 {
 background-color: violet;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .blogimg2 {
 	background-color: indigo;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .blogimg3 {
 	background-color: blue;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .blogimg4 {
 	background-color: green;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .blogimg5 {
 	background-color: yellow;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .blogimg6 {
 	background-color: orange;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .blogimg7 {
 	background-color: red;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .blogimg8 {
 	background-color: blue;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .blogimg9 {
 	background-color: violet;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .yourstoriesimg1 {
 background-color: violet;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .yourstoriesimg2 {
 	background-color: indigo;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .yourstoriesimg3 {
 	background-color: blue;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .yourstoriesimg4 {
 	background-color: green;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .yourstoriesimg5 {
 	background-color: yellow;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .yourstoriesimg6 {
 	background-color: orange;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .yourstoriesimg7 {
 	background-color: red;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .yourstoriesimg8 {
 	background-color: blue;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 .yourstoriesimg9 {
 	background-color: violet;
 background-image: url("") ;
 border: 10px solid white;
+border-radius: 20px;
 }
 footer {
 	background-color: blue;
