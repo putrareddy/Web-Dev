@@ -14,6 +14,13 @@ h3 {
 	text-align: center;
 	font-weight: 400;
 }
+a:hover {
+	text-decoration: none;
+}
+.card {
+	border-radius: 10px;
+	border: 5px;
+}
 .issue {
 	border: 10px solid blue;
 	border-radius: 20px;
