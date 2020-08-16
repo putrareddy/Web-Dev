@@ -17,6 +17,9 @@ h3 {
 a:hover {
 	text-decoration: none;
 }
+.collapse {
+	margin : 10px;
+}
 .top-left {
   position: absolute;
   top: 8px;
