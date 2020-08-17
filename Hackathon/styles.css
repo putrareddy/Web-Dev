@@ -14,8 +14,13 @@ h3 {
 	text-align: center;
 	font-weight: 400;
 }
-a:hover {
-	text-decoration: none;
+img {
+	border-radius: 10px;
+}
+a.btn {
+	border: 5px solid white ;
+	border-radius: 10px;
+	font-weight: 700;
 }
 .collapse {
 	margin : 10px;
@@ -38,9 +43,6 @@ a:hover {
 	border-radius: 20px;
 	color: blue;
 	background-color: white;
-}
-.alert {
-	width: 100%;
 }
 .nav-link {
 	color: green;
@@ -210,9 +212,6 @@ border-radius: 20px;
 background-image: url("") ;
 border: 10px solid white;
 border-radius: 20px;
-}
-footer {
-	background-color: blue;
 }
 button {
 	margin: 10px;
