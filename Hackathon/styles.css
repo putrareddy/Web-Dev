@@ -22,6 +22,10 @@ a.btn {
 	border-radius: 10px;
 	font-weight: 700;
 }
+a.drop:hover {
+	transform: scale(1.2);
+	transition: .5s;
+}
 .collapse {
 	margin : 10px;
 }
