@@ -37,10 +37,6 @@ a.drop:hover {
   top: 8px;
   left: 16px;
 }
-.navigation {
-  position: relative;
-  text-align: center;
-}
 .card {
 	border-radius: 10px;
 	border: 5px;
@@ -52,7 +48,7 @@ a.drop:hover {
 	background-color: white;
 }
 .nav-link {
-	color: green;
+	color: #33a395;
 	font-weight: 600;
 }
 .imp { 
