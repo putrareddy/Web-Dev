@@ -31,6 +31,9 @@ nav {
 h6 {
 	color: white;
 }
+.container-fluid {
+	padding: 0;
+}
 a.btn {
 	border: 5px solid white ;
 	border-radius: 10px;
