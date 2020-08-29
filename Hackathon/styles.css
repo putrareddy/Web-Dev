@@ -19,7 +19,7 @@ h2 {
 	text-align: center;
 	font-weight: 600;
 }
-h1,h2,h3,h4 {
+h1,h2,h3,h4,h5 {
 	color: #33a395;
 }
 img {
@@ -57,16 +57,7 @@ a.drop:hover {
   top: 8px;
   left: 16px;
 }
-.card {
-	border-radius: 10px;
-	border: 5px;
-}
-.issue {
-	border: 10px solid blue;
-	border-radius: 20px;
-	color: blue;
-	background-color: white;
-}
+
 .nav-link {
 	color: #33a395;
 	font-weight: 600;
